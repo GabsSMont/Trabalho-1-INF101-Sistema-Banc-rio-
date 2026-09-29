@@ -1,3 +1,10 @@
+/*
+  INF101 - Programacao de Computadores I
+  Trabalho: Sistema de Registro e Gestao de Contas Bancarias 
+  Aluno: Gabriel da Silva Monteiro
+  Matricula: 26514
+*/
+
 #include <iostream>
 #include <string>
 
@@ -22,9 +29,9 @@ int main() {
 
     do {
 
-        cout << "\n*******************************************" << endl;
-        cout << "TRABALHO BANCARIO - GABRIEL MONTEIRO - 26514" << endl;
-        cout << "*********************************************" << endl;
+        cout << "\n***********************************" << endl;
+        cout << "       BANCO GABRIEL INF101       " << endl;
+        cout << "***********************************" << endl;
         cout << "1 - Cadastrar conta" << endl;
         cout << "2 - Consultar conta" << endl;
         cout << "3 - Verificar saldo" << endl;
